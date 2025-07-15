@@ -1,12 +1,18 @@
 📝 Task List React
+
 App simples de lista de tarefas em React (class components) para praticar CRUD, localStorage e organização de estado.
 
 🚀 Funcionalidades
 ✅ Adicionar tarefas
+
 ✅ Editar tarefas
+
 ✅ Deletar tarefas
+
 ✅ Persistência no localStorage
+
 ✅ Modo de edição sem complicação
+
 
 🛠️ Tecnologias
 React (class components)
@@ -16,6 +22,7 @@ JavaScript
 localStorage
 
 CSS básico
+
 
 ⚙️ Como rodar
 1️⃣ Clone o repositório:
